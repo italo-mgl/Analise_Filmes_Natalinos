@@ -10,16 +10,10 @@ Analise de dados referente a filmes natalinos.
 
 <h4> Como rodar o programa ? </h4>
 <p>
-  Para rodar o programa, voce precisará ter o Python 3.* instalado alem disso, voce precisará fazer a instalação de algumas bibliotecas no sistema.
+  Para rodar o programa, voce precisará ter o Python 3.* instalado alem disso, voce precisará fazer a instalação de uma biblioteca no sistema.
 </p>
 <p>
   Abrir terminal ou cmd e digitar ' pip install + <strong>"nome da biblioteca"</strong>. Segue abaixo a lista das bibliotecas que são necessárias.
 </p>
 
-* tkinter
-* tkcalendar
-* webbrowser
-* datetime
-* view
-* os
-* sqlite3
+* Plotly
