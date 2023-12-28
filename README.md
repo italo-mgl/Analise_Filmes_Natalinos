@@ -1,5 +1,5 @@
 # Análise de Dados de Filmes Natalinos
-Analise de dados referente a filmes natalinos utilizando pandas 
+Analise de dados referente a filmes natalinos utilizando pandas e plotly.
 
 
 
