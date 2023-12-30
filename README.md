@@ -8,6 +8,11 @@ Analise de dados referente a filmes natalinos utilizando pandas e plotly.
 ## Gráfico
 ![newplot](https://github.com/italo-mgl/Analise_Filmes_Natalinos/assets/111648211/d47ac7a3-2f7e-44d0-acdf-fa1335bf18f3)
 
+## Informações adquiridas
+
+![Captura de tela 2023-12-29 180319](https://github.com/italo-mgl/Analise_Filmes_Natalinos/assets/111648211/c972e661-f349-4864-a272-fcb7c60d44d9)
+
+
 <h4> Como rodar o programa ? </h4>
 <p>
   Para rodar o programa, voce precisará ter o Python 3.* instalado alem disso, voce precisará fazer a instalação de uma biblioteca no sistema.
