@@ -12,6 +12,11 @@ Analise de dados referente a filmes natalinos utilizando pandas e plotly.
 
 ![Captura de tela 2023-12-29 180319](https://github.com/italo-mgl/Analise_Filmes_Natalinos/assets/111648211/c972e661-f349-4864-a272-fcb7c60d44d9)
 
+* Genero Principal
+* Ano de lançamento
+* Nota no IMDB
+* Quantidade de votos recebidos
+
 
 <h4> Como rodar o programa ? </h4>
 <p>
