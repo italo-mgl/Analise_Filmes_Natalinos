@@ -1,7 +1,11 @@
 # Análise de Dados de Filmes Natalinos
 Analise de dados referente a filmes natalinos utilizando pandas e plotly.
+> Finalizado ✔️
+<h3>Motivação</h3>
 
 
+<p>A motivação para o desenvolvimento desse projeto, foi para aprender mais sobre a biblioteca pandas para o tratamento de dados e a biblioteca plotly para a visualização dos resultados.
+</p>
 
 
 
