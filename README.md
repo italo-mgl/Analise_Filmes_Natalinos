@@ -27,3 +27,4 @@ Analise de dados referente a filmes natalinos utilizando pandas e plotly.
 </p>
 
 * Plotly
+* Pandas
